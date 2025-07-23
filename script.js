@@ -7,7 +7,8 @@ messages = {
     "PB": {name: "Pragna", message: "Happy Birthday, Christian! May your day be filled with love, great memories, and the people who make life special. Here's to another year of growth, happiness, and amazing adventures \u{1F60E}"},
     "BK": {name: "Bhawanjeet", message: "Happy B'day Christian! Wishing you a year full of growth, success and happiness \u{1F642}"},
     "LS": {name: "Lalitkumar", message: "Hey Christian, Wish you a Happy birthday! I hope all your birthday wishes and dreams come true. Stay blessed!"},
-    "MW": {name: "Mary", message: "Happy Birthday, Christian!  May you have a wonderful day and a fabulous year!"}
+    "MW": {name: "Mary", message: "Happy Birthday, Christian!  May you have a wonderful day and a fabulous year!"},
+    "ZG": {name: "Zacharie", message: "Happy Birthday Christian and welcome to the NRCAN App Dev family. I hope you had a great summer so far and that you have a great day."}
 };
 
 let currentMessageName = "";
